@@ -47,7 +47,7 @@ function Products() {
 					products.map(item => (
 						<SwiperSlide className='custom__slide' key={item.id}>
 							<img
-								src={item.photo || 'path/to/placeholder/image.png'}
+								src={item.photo || '/public/optical_fiber.png'}
 								alt={item.name}
 							/>
 							<p className='slide__label'>{item.name}</p>
