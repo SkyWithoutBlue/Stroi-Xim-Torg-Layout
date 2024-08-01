@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 1,
+			"name": "категория1",
+			"photo": null,
+			"description": "Тест"
+		},
+		{
+			"id": 2,
+			"name": "категория2",
+			"photo": null,
+			"description": "Тест"
+		},
+		{
+			"id": 3,
+			"name": "категория3",
+			"photo": null,
+			"description": "Тест"
+		}
+	]
+}
